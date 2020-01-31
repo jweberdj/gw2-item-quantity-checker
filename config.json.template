@@ -6,6 +6,6 @@
         "account-materials":"v2/account/materials"
     },
     "tracked_materials":[
-        86977,86069,87645,88955,89537,90783 -- REPLACE THESE VALUES WITH THE ITEM IDs YOU WANT TO TRACK || COMMA SEPARATED
+        86977,86069,87645,88955,89537,90783
     ]
 }
