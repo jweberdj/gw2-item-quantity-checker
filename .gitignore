@@ -133,3 +133,5 @@ playbook.yaml
 test.py
 permission_requirements.txt
 config.json
+poetry.lock
+pyproject.toml
