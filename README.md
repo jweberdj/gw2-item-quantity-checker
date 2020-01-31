@@ -1,5 +1,5 @@
-# gw2-item-quantity-checker
-Check the quantity of any given item in your materials storage from your command line.
+# Guild Wars 2 | gw2-item-quantity-checker
+Check the quantity of any given item in your materials storage in Guild Wars 2 from your command line.
 
 ## Pre-requisites
 
